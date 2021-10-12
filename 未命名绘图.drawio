@@ -1,16 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T07:57:47.094Z" agent="5.0 (Windows)" etag="ds4GDEg8133Ql7_Z6s0_" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-12T10:49:56.169Z" agent="5.0 (Windows)" etag="dEzxgJhqeDWTdrAmJVCZ" version="14.6.13" type="github">
   <diagram id="vaol6sHielq2GLeHfpsT" name="Page-1">
-    <mxGraphModel dx="1429" dy="601" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1189" dy="601" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K4tTZbJK00jlwxvX5w37-116" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="_888bn8OXBweJfGqwLtD-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="106" y="34" width="618" height="1127" as="geometry" />
+        </mxCell>
+        <mxCell id="K4tTZbJK00jlwxvX5w37-116" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="124" y="834" width="585" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="K4tTZbJK00jlwxvX5w37-96" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="K4tTZbJK00jlwxvX5w37-96" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="124" y="491" width="585" height="298" as="geometry" />
         </mxCell>
-        <mxCell id="K4tTZbJK00jlwxvX5w37-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="K4tTZbJK00jlwxvX5w37-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="124" y="49" width="585" height="397" as="geometry" />
         </mxCell>
         <mxCell id="K4tTZbJK00jlwxvX5w37-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;dashed=1;" parent="1" vertex="1">
@@ -64,7 +67,7 @@
         <mxCell id="K4tTZbJK00jlwxvX5w37-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" parent="1" source="K4tTZbJK00jlwxvX5w37-25" target="K4tTZbJK00jlwxvX5w37-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K4tTZbJK00jlwxvX5w37-25" value="采样策略" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFF2CC;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="K4tTZbJK00jlwxvX5w37-25" value="网格化采样策略" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFF2CC;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="341.5" y="295" width="144" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K4tTZbJK00jlwxvX5w37-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="K4tTZbJK00jlwxvX5w37-30" target="K4tTZbJK00jlwxvX5w37-46" edge="1">
