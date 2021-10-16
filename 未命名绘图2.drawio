@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T07:46:11.940Z" agent="5.0 (Windows)" etag="TYeKisE4fwA_7wPU0poc" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T07:56:35.353Z" agent="5.0 (Windows)" etag="KKPM5m3vwKgJYuxtJHgw" version="15.5.4" type="github">
   <diagram id="v6IWmVOyirAtEltqmXKr" name="第 1 页">
     <mxGraphModel dx="1030" dy="528" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="116" y="44" width="618" height="1255" as="geometry" />
+          <mxGeometry x="116" y="44" width="618" height="1227" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="134" y="501" width="585" height="426" as="geometry" />
+          <mxGeometry x="134" y="501" width="585" height="439" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="134" y="59" width="585" height="397" as="geometry" />
@@ -110,10 +110,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-106" value="最小DNBR对应的样本特征空间" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#DAE8FC;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="353.5" y="857" width="144" height="48" as="geometry" />
+          <mxGeometry x="353.5" y="875" width="144" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-107" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;结束&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
-          <mxGeometry x="608.96" y="854" width="54" height="54" as="geometry" />
+          <mxGeometry x="608.96" y="872" width="54" height="54" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gPIV2DvkWy4jQC8cFaT1-112" target="gPIV2DvkWy4jQC8cFaT1-106">
           <mxGeometry relative="1" as="geometry" />
@@ -121,34 +121,34 @@
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="gPIV2DvkWy4jQC8cFaT1-112" target="gPIV2DvkWy4jQC8cFaT1-122">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="217" y="797" />
-              <mxPoint x="217" y="628" />
+              <mxPoint x="217" y="815" />
+              <mxPoint x="217" y="646" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-112" value="G&amp;gt;GEN?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFEBF8;" vertex="1" parent="1">
-          <mxGeometry x="355" y="773" width="141" height="47.34" as="geometry" />
+          <mxGeometry x="355" y="791" width="141" height="47.34" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-119" value="&lt;font style=&quot;font-size: 16px&quot;&gt;是&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="409" y="820" width="60" height="30" as="geometry" />
+          <mxGeometry x="414.23" y="836" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="gPIV2DvkWy4jQC8cFaT1-122" target="gPIV2DvkWy4jQC8cFaT1-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-90" value="&lt;div&gt;新的样本空间&lt;/div&gt;&lt;div&gt;G=G+1&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="353.5" y="688" width="144" height="48" as="geometry" />
+          <mxGeometry x="353.5" y="706" width="144" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="gPIV2DvkWy4jQC8cFaT1-95" target="gPIV2DvkWy4jQC8cFaT1-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-95" value="&lt;div&gt;初始化样本空间G=0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="353.5" y="519" width="144" height="48" as="geometry" />
+          <mxGeometry x="353.5" y="537" width="144" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-129" value="&lt;font style=&quot;font-size: 16px&quot;&gt;否&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="258" y="769" width="60" height="30" as="geometry" />
+          <mxGeometry x="258" y="787" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-130" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="263" y="594" width="325" height="68" as="geometry" />
+          <mxGeometry x="263" y="612" width="325" height="68" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-122" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;dashed=1;" vertex="1" parent="gPIV2DvkWy4jQC8cFaT1-130">
           <mxGeometry width="325" height="68" as="geometry" />
@@ -160,19 +160,16 @@
           <mxGeometry x="10.5" y="10" width="144" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-187" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="133.99999999999997" y="942" width="585" height="344" as="geometry" />
+          <mxGeometry x="134" y="964" width="585" height="288" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-126" value="&lt;font style=&quot;font-size: 20px&quot;&gt;全局最优解搜索模块&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="531" y="945" width="188" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="gPIV2DvkWy4jQC8cFaT1-140" value="快速求解局部最优解的机器学习方法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="354.99999999999994" y="961" width="144" height="48" as="geometry" />
+          <mxGeometry x="531" y="967" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="gPIV2DvkWy4jQC8cFaT1-142" target="gPIV2DvkWy4jQC8cFaT1-150">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="427" y="1118" />
-              <mxPoint x="205" y="1118" />
+              <mxPoint x="429" y="1087" />
+              <mxPoint x="207" y="1087" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -185,40 +182,37 @@
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="gPIV2DvkWy4jQC8cFaT1-142" target="gPIV2DvkWy4jQC8cFaT1-152">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="427" y="1118" />
-              <mxPoint x="647" y="1118" />
+              <mxPoint x="429" y="1087" />
+              <mxPoint x="649" y="1087" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gPIV2DvkWy4jQC8cFaT1-142" value="智能搜索策略" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="354.99999999999994" y="1039" width="144" height="48" as="geometry" />
+        <mxCell id="gPIV2DvkWy4jQC8cFaT1-142" value="共轭梯度方法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="356.99999999999994" y="1008" width="144" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-150" value="局部最优解DNBR&lt;sub&gt;1&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#DAE8FC;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="157.5" y="1148" width="95" height="40" as="geometry" />
+          <mxGeometry x="159.5" y="1117" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-152" value="局部最优解DNBR&lt;sub&gt;n&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#DAE8FC;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="599" y="1148" width="95" height="40" as="geometry" />
+          <mxGeometry x="601" y="1117" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-153" value="局部最优解DNBR&lt;sub&gt;2&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#DAE8FC;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="268" y="1148" width="95" height="40" as="geometry" />
+          <mxGeometry x="270" y="1117" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-154" value="局部最优解DNBR&lt;sub&gt;n-1&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#DAE8FC;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="489" y="1148" width="95" height="40" as="geometry" />
+          <mxGeometry x="491" y="1117" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-161" value="&lt;font style=&quot;font-size: 32px&quot;&gt;......&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="406" y="1151" width="40" height="20" as="geometry" />
+          <mxGeometry x="408" y="1120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-169" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=32;direction=north;size=0.5;" vertex="1" parent="1">
-          <mxGeometry x="157.10999999999999" y="1201" width="535.77" height="20" as="geometry" />
+          <mxGeometry x="159.10999999999999" y="1170" width="535.77" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-170" value="全局最优解DNBR&lt;sub&gt;best&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#DAE8FC;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="377.23" y="1228" width="95" height="40" as="geometry" />
+          <mxGeometry x="379.23" y="1197" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gPIV2DvkWy4jQC8cFaT1-173" value="&lt;font style=&quot;font-size: 16px&quot;&gt;筛选&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="396" y="1183" width="60" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="gPIV2DvkWy4jQC8cFaT1-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="gPIV2DvkWy4jQC8cFaT1-140" target="gPIV2DvkWy4jQC8cFaT1-142">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="398" y="1152" width="60" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
